@@ -1,0 +1,17 @@
+.dub
+dub.selections.json
+docs.json
+__dummy.html
+docs/
+/chacha
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+chacha-test-*
+*.exe
+*.o
+*.obj
+*.lst
+main.c
