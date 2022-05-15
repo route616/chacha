@@ -1,0 +1,25 @@
+{
+	"authors": [
+		"Игорь"
+	],
+	"copyright": "Copyright © 2022, Игорь",
+	"description": "A ChaCha cypher library.",
+	"license": "WTFPL",
+	"name": "chacha",
+	"configurations": [
+		{
+			"name": "dynamicLibrary",
+			"targetType": "dynamicLibrary",
+			"dflags": [
+				"-betterC"
+			]
+		},
+		{
+			"name": "staticLibrary",
+			"targetType": "staticLibrary",
+			"dflags": [
+				"-betterC"
+			]
+		}
+	]
+}
