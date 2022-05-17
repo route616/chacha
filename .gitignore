@@ -14,4 +14,4 @@ chacha-test-*
 *.o
 *.obj
 *.lst
-main.c
+*.c
